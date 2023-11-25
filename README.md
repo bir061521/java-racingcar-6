@@ -107,3 +107,8 @@
 - view
     - **InputView**: 콘솔을 통해 사용자에게 값을 입력받고, 에러 발생 시 재입력하도록 제공하는 클래스.
     - **OutputView**: 콘솔에 대한 출력을 담당하는 클래스.
+
+
+
+https://velog.io/@bir0615/%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-racing-car%EC%88%98%EC%A0%95%EC%A4%91%EC%9D%B8-%EA%B8%80%EC%9E%85%EB%8B%88%EB%8B%A4-> 제 벨로그입니다. 
+제가 참고한 원본블로그링크와 제 회고등을 적었습니다.(현재 수정중)
